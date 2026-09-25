@@ -1,18 +1,13 @@
-<p style="text-align:center">
-<code id="welcome" style="font-size: large">│&nbsp;&nbsp;&nbsp;
-W E L C O M E  T O  M Y G I T H U B 
-&nbsp;&nbsp;&nbsp;│</code>
+<h2 align="center"><span>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> W E L C O M E  T O  M Y G I T H U B <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</span></h2>
 
+<p align="center">
+// <a href="#-sobre-mi">SOBRE MI</a> // <a href="#-database-">TECNOLOGIAS</a>  // <a href="#-github-stats">ESTADISTICAS</a>  //
 </p>
-
-<p style="text-align:center">
-<code>// <a href="#sobreMi">SOBRE MI</a> // <a href="#tecnologias">TECNOLOGIAS</a>  // <a href="#estadisticas">ESTADISTICAS</a>  //</code>
-</p>
-<p style="text-align:center">
+<p align="center">
 J<span style="font-size: smaller">UNIOR</span> D<span style="font-size: smaller">EVELOPER</span> - B<span style="font-size: smaller">ACKEND</span> - D<span style="font-size: smaller">ATABASES </span>
 </p>
 
-<h2 style="text-align:center">
+<h2 align="center">
 🚀 Sobre Mi
 </h2>
 
@@ -21,16 +16,17 @@ soluciones innovadoras que aprovechan tecnologías de vanguardia para
 resolver problemas del mundo real.
 
 <div ID="sobreMi" style="display: grid; grid-template-columns: auto auto; justify-content: space-between" >
-<ul style="align-items: center; justify-content: center; ">
+  <img align="right" alt="GIF" height="160px" src="assets/cat-meme.gif" />
+<ul >
 <li>👨‍💻 Actualmente estoy cursando Ingenieria de Sistemas Informaticos</li>
 <li>📚 Aprendiendo todo sobre Frontend y Backend 😅</li>
 <li>💪🏼 Metas Futuras: Conocer mas tecnologias y tecnicas para el desarrollo</li>
 <li>📊 Manejo base de datos SQL sobre sistemas Ubuntu</li>
 </ul>
-<img alt="GIF" height="160px" src="assets/cat-meme.gif" />
-</div>
 
-<h3 style="text-align:center">
+</div >
+
+<h3 align="center" >
 Enlaces y Contacto
 </h3>
 
@@ -39,8 +35,8 @@ Enlaces y Contacto
 - <a href="mailto:aa23077@ues.edu.sv"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>
   ：Correo Institucional: **aa23077@ues.edu.sv** 📧
 
-<h2 style="text-align: center"> 💻Stack de tecnologias</h2>
-<div style="text-align: center" >
+<h2 align="center"> 💻Stack de tecnologias</h2>
+<div align="center">
 
 <h3> Frontend </h3>
 
@@ -71,8 +67,8 @@ Enlaces y Contacto
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?logo=roblox&logoColor=white)
 
 </div>
-<h2 id="estadisticas" style="text-align:center" > 📈GitHub Stats</h2>
- <p style="text-align:center">
+<h2 id="estadisticas" align="center"> 📈GitHub Stats</h2>
+ <p align="center">
 <a style="display: grid; grid-template-columns: auto auto">
   <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SsalvakingG&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Mis Estadisticas de GitHub "/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SsalvakingG&layout=compact&theme=dark" alt="Mis lenguajes mas usados">
